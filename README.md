@@ -36,3 +36,11 @@ All the findings are documented in an Excel sheet. Among them, some of the major
 
 ![ 1 st page !](https://github.com/muksanakhatun/sakila-powerbi/blob/main/1st_datset.PNG "1 st page")
 <img src="https://github.com/muksanakhatun/sakila-powerbi/blob/main/2nd.PNG" alt="SS 1"/>
+<img title="a title" alt="Alt text" src="https://github.com/muksanakhatun/sakila-powerbi/blob/main/3rd.PNG ">
+![alt-text-1](https://github.com/muksanakhatun/sakila-powerbi/blob/main/4th.PNG "title-1") ![alt-text-2](https://github.com/muksanakhatun/sakila-powerbi/blob/main/5th.PNG "title-2")
+
+<p align="center">
+      <img src="https://github.com/muksanakhatun/sakila-powerbi/blob/main/6th.PNG" align="left">
+      <img src="https://github.com/muksanakhatun/sakila-powerbi/blob/main/8th.PNG">
+      <img src="https://github.com/muksanakhatun/sakila-powerbi/blob/main/7th.PNG" align="right">
+</p>
