@@ -21,7 +21,10 @@ data-driven decisions.<br>
 - Used custom visuals from the power bi marketplace<br>
 
 #### DAX function <br>
-All DAX functions used are documented here : https://github.com/muksanakhatun/sakila-powerbi/blob/main/dax%20function.docx <br>
+All DAX functions used are documented here: https://github.com/muksanakhatun/sakila-powerbi/blob/main/dax%20function.docx <br>
+
+#### KPI frameworks <br>
+All KPI frameworks are documented here: https://github.com/muksanakhatun/sakila-powerbi/blob/main/sakila%20KPI%20FRAMEWORK.xlsx <br>
 
 #### Project findings:<br>
 All the findings are documented in an Excel sheet. Among them, some of the major findings are:-<br>
