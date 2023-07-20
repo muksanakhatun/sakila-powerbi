@@ -33,3 +33,5 @@ All the findings are documented in an Excel sheet. Among them, some of the major
 ***Linkdin*** : <https://www.linkedin.com/in/muksana/> <br> 
 ***Email***: <muksanakhatun@gmail.com>
 
+![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+![ 1 st page !]()
