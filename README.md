@@ -44,3 +44,16 @@ All the findings are documented in an Excel sheet. Among them, some of the major
       <img src="https://github.com/muksanakhatun/sakila-powerbi/blob/main/8th.PNG">
       <img src="https://github.com/muksanakhatun/sakila-powerbi/blob/main/7th.PNG" align="right">
 </p>
+<table>
+  <tr>
+    <td>First Screen Page</td>
+     <td>Holiday Mention</td>
+     <td>Present day in purple and selected day in pink</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/muksanakhatun/sakila-powerbi/blob/main/9th.PNG" width=270 height=480></td>
+    <td><img src="https://github.com/muksanakhatun/sakila-powerbi/blob/main/11th_drill_through.PNG" width=270 height=480></td>
+  </tr>
+ </table>
+ <td><img src="https://github.com/muksanakhatun/sakila-powerbi/blob/main/10_tooltip.PNG" width=270 height=480></td>
+ <img src="https://github.com/muksanakhatun/sakila-powerbi/blob/main/11th_drill_through.PNG" width="425"/> <img src="https://github.com/muksanakhatun/sakila-powerbi/blob/main/12th.PNG" width="425"/> 
