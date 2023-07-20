@@ -35,4 +35,4 @@ All the findings are documented in an Excel sheet. Among them, some of the major
 
 
 ![ 1 st page !](https://github.com/muksanakhatun/sakila-powerbi/blob/main/1st_datset.PNG "1 st page")
-<img src="https://github.com/muksanakhatun/new-powerbi/blob/main/retail%20analysis.PNG" alt="SS 1"/>
+<img src="https://github.com/muksanakhatun/sakila-powerbi/blob/main/2nd.PNG" alt="SS 1"/>
