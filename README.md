@@ -20,6 +20,8 @@ data-driven decisions.<br>
 - Added buttons and Navigation Pane, drill through & tooltip <br>
 - Used custom visuals from the power bi marketplace<br>
 
+#### DAX function <br>
+All DAX functions used are documented here : https://github.com/muksanakhatun/sakila-powerbi/blob/main/dax%20function.docx <br>
 
 #### Project findings:<br>
 All the findings are documented in an Excel sheet. Among them, some of the major findings are:-<br>
