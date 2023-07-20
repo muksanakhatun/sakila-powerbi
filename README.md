@@ -37,23 +37,13 @@ All the findings are documented in an Excel sheet. Among them, some of the major
 ![ 1 st page !](https://github.com/muksanakhatun/sakila-powerbi/blob/main/1st_datset.PNG "1 st page")
 <img src="https://github.com/muksanakhatun/sakila-powerbi/blob/main/2nd.PNG" alt="SS 1"/>
 <img title="a title" alt="Alt text" src="https://github.com/muksanakhatun/sakila-powerbi/blob/main/3rd.PNG ">
-![alt-text-1](https://github.com/muksanakhatun/sakila-powerbi/blob/main/4th.PNG "title-1") ![alt-text-2](https://github.com/muksanakhatun/sakila-powerbi/blob/main/5th.PNG "title-2")
-
-<p align="center">
-      <img src="https://github.com/muksanakhatun/sakila-powerbi/blob/main/6th.PNG" align="left">
-      <img src="https://github.com/muksanakhatun/sakila-powerbi/blob/main/8th.PNG">
-      <img src="https://github.com/muksanakhatun/sakila-powerbi/blob/main/7th.PNG" align="right">
-</p>
-<table>
-  <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/muksanakhatun/sakila-powerbi/blob/main/9th.PNG" width=270 height=480></td>
-    <td><img src="https://github.com/muksanakhatun/sakila-powerbi/blob/main/11th_drill_through.PNG" width=270 height=480></td>
-  </tr>
- </table>
- <td><img src="https://github.com/muksanakhatun/sakila-powerbi/blob/main/10_tooltip.PNG" width=270 height=480></td>
- <img src="https://github.com/muksanakhatun/sakila-powerbi/blob/main/11th_drill_through.PNG" width="425"/> <img src="https://github.com/muksanakhatun/sakila-powerbi/blob/main/12th.PNG" width="425"/> 
+![alt-text-1!](https://github.com/muksanakhatun/sakila-powerbi/blob/main/4th.PNG "title-1") 
+![alt-text-2!](https://github.com/muksanakhatun/sakila-powerbi/blob/main/5th.PNG "title-2")
+<img src="https://github.com/muksanakhatun/sakila-powerbi/blob/main/6th.PNG" align="left">
+<img src="https://github.com/muksanakhatun/sakila-powerbi/blob/main/8th.PNG">
+<img src="https://github.com/muksanakhatun/sakila-powerbi/blob/main/7th.PNG" align="right">
+![alt-text-1!]( https://github.com/muksanakhatun/sakila-powerbi/blob/main/9th.PNG "title-1" )
+![alt-text-2!](https://github.com/muksanakhatun/sakila-powerbi/blob/main/11th_drill_through.PNG"title-2")
+<img src="https://github.com/muksanakhatun/sakila-powerbi/blob/main/10_tooltip.PNG" >
+<img src="https://github.com/muksanakhatun/sakila-powerbi/blob/main/11th_drill_through.PNG"> 
+<img src="https://github.com/muksanakhatun/sakila-powerbi/blob/main/12th.PNG" > 
