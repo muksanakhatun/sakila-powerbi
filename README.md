@@ -39,11 +39,11 @@ All the findings are documented in an Excel sheet. Among them, some of the major
 <img title="a title" alt="Alt text" src="https://github.com/muksanakhatun/sakila-powerbi/blob/main/3rd.PNG ">
 ![alt-text-1!](https://github.com/muksanakhatun/sakila-powerbi/blob/main/4th.PNG "title-1") 
 ![alt-text-2!](https://github.com/muksanakhatun/sakila-powerbi/blob/main/5th.PNG "title-2")
-<img src="https://github.com/muksanakhatun/sakila-powerbi/blob/main/6th.PNG" align="left">
+<img src="https://github.com/muksanakhatun/sakila-powerbi/blob/main/6th.PNG" >
 <img src="https://github.com/muksanakhatun/sakila-powerbi/blob/main/8th.PNG">
-<img src="https://github.com/muksanakhatun/sakila-powerbi/blob/main/7th.PNG" align="right">
-![alt-text-1!]( https://github.com/muksanakhatun/sakila-powerbi/blob/main/9th.PNG "title-1" )
-![alt-text-2!](https://github.com/muksanakhatun/sakila-powerbi/blob/main/11th_drill_through.PNG"title-2")
+<img src="https://github.com/muksanakhatun/sakila-powerbi/blob/main/7th.PNG" >
+![alt-text-1 !]( https://github.com/muksanakhatun/sakila-powerbi/blob/main/9th.PNG "title-1" )
+![alt-text-2 !](https://github.com/muksanakhatun/sakila-powerbi/blob/main/11th_drill_through.PNG "title-2")
 <img src="https://github.com/muksanakhatun/sakila-powerbi/blob/main/10_tooltip.PNG" >
 <img src="https://github.com/muksanakhatun/sakila-powerbi/blob/main/11th_drill_through.PNG"> 
 <img src="https://github.com/muksanakhatun/sakila-powerbi/blob/main/12th.PNG" > 
