@@ -2,6 +2,8 @@
 >
 **Hi everyone,**<br>
 Recently I have done one project on power bi and SQL. Analyzed data in SQL and created a dashboard using power bi.<br>
+
+**video link**: https://www.youtube.com/watch?v=5zUxgMILkwY&list=PLAgiMDuZXBk51Viu3in65arDui9x0efc8 <br>
 > Data Sources: https://lnkd.in/gNCbVb7K <br>
 
 The Sakila database is a nicely normalized schema modeling a DVD rental store, featuring things like films, actors, film-actor relationships, and a central inventory table that connects films, stores, and rentals.
